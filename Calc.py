@@ -33,7 +33,7 @@ if int(time) > 0:
         print("Puzzles - ", puzzless // roundss )
         print("Kills - ", killss // roundss)
         print("")
-        exit()
+        
     else:
         print("Rounds - ", roundss)
         puzzless = int(total) // 15
@@ -42,7 +42,7 @@ if int(time) > 0:
         print("Puzzles - ", puzzless // roundss )
         print("Kills - ", killss // roundss)
         print("")
-        exit()
+        
         
 if int(time) == 0:
     if int(vip) == 2:
@@ -52,7 +52,7 @@ if int(time) == 0:
         print("Kills - ", int(total) // 45)
         print("Killer Wins - ", int(total) // 180)  
         print("")
-        exit()
+        
     else:
         print("XP - ", int(total) * 0.75)
         print("Puzzles - ", int(total) // 18.75)
@@ -60,4 +60,7 @@ if int(time) == 0:
         print("Kills - ", int(total) // 56.25)
         print("Killer Wins - ", int(total) // 225.0)
         print("")
-        exit()
+
+input("Press Enter to exit."
+
+        
