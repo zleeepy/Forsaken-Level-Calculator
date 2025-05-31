@@ -7,6 +7,6 @@ To clone the repo, type in your terminal ```git clone https://github.com/zleeepy
 
 Now CD into the cloned repo with ```cd Forsaken-Level-Calculator```
 
-To make the .sh file executable, run this while in the dir ```chmod +x Forsaken-Level-Calculator.sh```
+To make the .py file executable, run this while in the dir ```chmod +x Calc.py```
 
-Now, run the .sh file to start the program. You can also move the .sh file to anywhere you want.
+Now, run the .py file to start the program. You can also move the .py file to anywhere you want.
