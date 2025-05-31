@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 startlvl = input("What level are you? | ")
 endlvl = input("What level do you want to get to? | ")
 print("")
