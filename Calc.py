@@ -61,6 +61,6 @@ if int(time) == 0:
         print("Killer Wins - ", int(total) // 225.0)
         print("")
 
-input("Press Enter to exit."
+input("Press Enter to exit.")
 
         
